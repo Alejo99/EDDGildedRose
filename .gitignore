@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GildedRoseApplication/.vs/GildedRoseApplication/v15
+/GildedRoseApplication/GildedRoseApplication/obj
