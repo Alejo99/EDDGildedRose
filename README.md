@@ -8,7 +8,7 @@ is also really useful for practicing writing good tests using different framewor
 
 ## How to use this Kata
 
-The simplest way is to just clone the code and start hacking away improving the design. You'll want to look at the ["Gilded Rose Requirements"](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/GildedRoseRequirements.txt) which explains what the code is for.
+The simplest way is to just clone the code and start hacking away improving the design. You'll want to look at the ["Gilded Rose Requirements"](https://github.com/Armen99/EDDGildedRose/edit/master/GildedRoseRequirements.txt) which explains what the code is for.
 I strongly advise you that some tests have been done in a popular test framework to make sure you don't break the code while you refactor. Anyway, you can also write some unit tests yourself using the requirements to identify suitable test cases.
 Keep in mind to pass them while doing the refactor.
 
